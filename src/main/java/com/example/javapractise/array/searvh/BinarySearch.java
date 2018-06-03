@@ -31,5 +31,8 @@ public class BinarySearch {
 
         boolean present = isPresent(arr, 19);
         System.out.println(present);
+
+
+        System.out.println('a' + "a");
     }
 }

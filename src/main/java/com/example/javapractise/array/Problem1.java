@@ -78,7 +78,7 @@ public class Problem1 {
 
         Problem1 problem1 = new Problem1();
 //        System.out.println(problem1.isPresent(8));
-//        problem1.printPairsSet(8);
+        problem1.printPairs(8);
 
         
         printPairsSort(8);
